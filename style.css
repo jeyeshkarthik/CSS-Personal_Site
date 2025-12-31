@@ -1,0 +1,40 @@
+.JeyeshPhoto{
+    border-radius: 50%;
+}
+
+.Intro{
+    background-image: url("Images/I’m\ Jeyesh.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.jeyesh{
+    font-family: "Edu SA Beginner", cursive;
+}
+
+.site{
+    font-family: "Edu SA Beginner", cursive;
+}
+
+.lead{
+    font-size: 1.5rem;
+}
+
+.feature-icon{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+p{
+    font-size: 1.05rem;
+}
+
+.carousel-inner img {
+    height: 700px;
+    object-fit: cover;
+}
+
+.container-foot{
+    background-color: #C1E1C1;
+}
